@@ -1,0 +1,56 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "main_dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about_us.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "location.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "classic_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pancakes.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
